@@ -1,0 +1,8 @@
+
+  .story-bubble-close { box-shadow: 0 0 0 2px #06D6A0, 0 0 0 4px #0b0b1a !important; }
+  .cf-chip { display:inline-flex; align-items:center; gap:6px; padding:6px 10px; border-radius:14px; background:var(--bg3); border:1px solid var(--border); color:var(--text); font-size:11.5px; font-weight:600; cursor:pointer; }
+  .cf-chip.on { background:linear-gradient(135deg,#06D6A0,#118AB2); border-color:transparent; color:#fff; }
+  .arch-item { display:flex; gap:10px; align-items:center; padding:8px; border-radius:12px; background:var(--bg3); border:1px solid var(--border); margin-bottom:8px; }
+  .arch-cover { width:44px; height:60px; border-radius:8px; background-size:cover; background-position:center; background-color:#333; flex-shrink:0; }
+  .phase6-tools { display:flex; gap:8px; padding:0 16px 8px; overflow-x:auto; scrollbar-width:none; }
+  .phase6-tools::-webkit-scrollbar { display:none; }
